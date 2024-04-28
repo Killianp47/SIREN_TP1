@@ -10,7 +10,7 @@ Le schéma est disponible dans le repository sous le nom diagrammeActivité.draw
 
 # Téléchargement du Fichier
 
-Un fois le fichier csv télécharger, il faut le déposer dans le projet, et vérifier que le répertoire "data" est présent.
+Un fois le fichier csv télécharger, il faut le déposer dans le projet, et vérifier que le répertoire "data" est présent. Si il n'est pas présent, créer le repertoire "data".
 
 ## Installation des packages
 
